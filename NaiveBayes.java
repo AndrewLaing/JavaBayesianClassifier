@@ -1,7 +1,8 @@
 /**
- * Author: Andrew Laing
- * Email:  parisianconnections@gmail.com
- * Date:   23/12/2016.
+ * Filename: NaiveBayes.java
+ * Author:   Andrew Laing
+ * Email:    parisianconnections@gmail.com
+ * Date:     23/12/2016.
  */
 
 import java.util.List;
@@ -35,6 +36,7 @@ public class NaiveBayes implements Serializable
         this.assumedProb = 1.0;
         this.defaultCategory = "Unclassified";
     }
+
 
     /**
      * Constructor #1
