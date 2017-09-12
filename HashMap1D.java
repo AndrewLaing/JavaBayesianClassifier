@@ -1,11 +1,11 @@
 /**
- * Author: Andrew Laing
- * Email:  parisianconnections@gmail.com
- * Date:   23/12/2016.
- *
- * HashMap1D
- * The class HashMap1D is a wrapper class designed to hold a HashMap<String, Integer>
- * The methods in this class were added for a Naive Bayesian classifier
+ * Filename: HashMap1D.java
+ * Author:   Andrew Laing
+ * Email:    parisianconnections@gmail.com
+ * Date:     23/12/2016.
+ * Description:
+ *     The class HashMap1D is a wrapper class designed to hold a HashMap<String, Integer>
+ *     The methods in this class were added for a Naive Bayesian classifier
  */
 import java.util.HashMap;
 import java.util.List;
@@ -109,4 +109,3 @@ public class HashMap1D extends HashMap implements Serializable
     }
 
 }
-
