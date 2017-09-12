@@ -29,7 +29,6 @@ public class BayesianClassifier
         System.out.println("Roger = " + nb.classify(test));
         System.out.println("cheese = " + nb.classify(test1));
 
-
         List<String> train1 = new ArrayList<String>();
         train1.add("Roger");
         train1.add("Roger");
@@ -44,7 +43,6 @@ public class BayesianClassifier
 
         System.out.println("\n---- Classification after further training ----");
         System.out.println("Roger 2 = " + nb.classify(test3));
-
 
         //////////////////////////////////////////////////////////////
         // serialisation tests
