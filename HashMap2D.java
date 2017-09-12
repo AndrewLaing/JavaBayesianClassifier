@@ -1,12 +1,12 @@
 /**
- * Author: Andrew Laing
- * Email:  parisianconnections@gmail.com
- * Date:   23/12/2016.
- *
- * HashMap2D
- * The class HashMap2D is a wrapper class designed to hold an outer HashMap<String, HashMap>
- * that contains inner HashMaps of the form HashMap<String, Integer>
- * The methods in this class were added for a Naive Bayesian classifier.
+ * Filename: HashMap2D.java
+ * Author:   Andrew Laing
+ * Email:    parisianconnections@gmail.com
+ * Date:     23/12/2016.
+ * Description:
+ *     The class HashMap2D is a wrapper class designed to hold an outer HashMap<String, HashMap>
+ *     that contains inner HashMaps of the form HashMap<String, Integer>
+ *     The methods in this class were added for a Naive Bayesian classifier.
  */
 import java.util.List;
 import java.util.HashMap;
