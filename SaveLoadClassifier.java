@@ -1,7 +1,8 @@
 /**
- * Author: Andrew Laing
- * Email:  parisianconnections@gmail.com
- * Date:   23/12/2016.
+ * Filenmame: SaveLoadClassifier.java
+ * Author:   Andrew Laing
+ * Email:    parisianconnections@gmail.com
+ * Date:     23/12/2016.
  */
 
 import java.io.*;
